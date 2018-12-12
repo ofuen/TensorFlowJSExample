@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/19554935/49843895-cd848e80-fd8e-11e8-932a-6d8ab5d30128.png)
+![image](![image](https://user-images.githubusercontent.com/19554935/49843941-f60c8880-fd8e-11e8-8553-6ea4b2ca2baa.png)
 # TensorFlowJSExample
 A JavaScript library for training and deploying ML models in the browser and on Node.js
 ***
