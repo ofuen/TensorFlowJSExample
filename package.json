@@ -1,0 +1,19 @@
+{
+  "name": "tensorflowjsexamples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofuen/TensorFlowJSExample.git"
+  },
+  "author": "Oscar Fuentes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ofuen/TensorFlowJSExample/issues"
+  },
+  "homepage": "https://github.com/ofuen/TensorFlowJSExample#readme"
+}
