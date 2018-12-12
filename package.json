@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ofuen/TensorFlowJSExample/issues"
   },
-  "homepage": "https://github.com/ofuen/TensorFlowJSExample#readme"
+  "homepage": "https://github.com/ofuen/TensorFlowJSExample#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.14.1"
+  }
 }
